@@ -85,7 +85,7 @@ Instagram shows **slightly better engagement efficiency**, but lower conversion 
 
 ---
 
-## 📈 Funnel Comparison Insights
+## Funnel Comparison Insights
 
 - Both platforms have **very high CTR (~11–12%)**, well above industry benchmarks
 - Facebook drives **more purchases due to higher impressions**
@@ -98,7 +98,7 @@ Instagram shows **slightly better engagement efficiency**, but lower conversion 
 
 ---
 
-## 👥 Audience Insights
+##  Audience Insights
 
 ### Engagement by Gender
 - Females show the **highest engagement** on both platforms
@@ -117,7 +117,7 @@ Design **female-focused creatives**, especially for Instagram.
 
 ---
 
-## 🌍 Geographic Performance
+##  Geographic Performance
 
 Top engaged countries:
 - United States
@@ -132,7 +132,7 @@ Top engaged countries:
 
 ---
 
-## ⏱️ Time-Based Trends
+##  Time-Based Trends
 
 ### Weekly Trend
 - Stable engagement throughout the month
