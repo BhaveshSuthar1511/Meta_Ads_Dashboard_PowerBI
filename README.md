@@ -39,7 +39,7 @@ This dashboard is suitable for **marketing teams, performance analysts, and deci
 | **Avg Budget / Campaign** | Average spend per campaign. Shows campaign distribution strategy. |
 
 ---
-## 📌 Platform-wise KPI Performance
+##  Platform-wise KPI Performance
 
 ### Facebook Ads Performance
 
